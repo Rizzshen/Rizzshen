@@ -3,7 +3,6 @@
 ## 🛠 About Me  
 - 🎓 Computer Science Student at Herald College  
 - 💻 Passionate about Web Development, AI, and Backend Engineering  
-- 🚀 Currently building an AI-powered music recommendation system  
 - 🌱 Learning more about machine learning and embeddings  
 
 ## ⚡ Tech Stack  
