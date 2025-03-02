@@ -8,8 +8,8 @@
 
 ## ⚡ Tech Stack  
 - 💡 Languages: Python, JavaScript  
-- 🌐 Web: Flask, Node, React  
-- 🛢️ Databases: SQL, SQLite  
+- 🌐 Web: Flask, Node, React, Express
+- 🛢️ Databases: SQL, SQLite, MongoDB 
 - 🤖 AI & ML: Embeddings, Data Processing  
 
 <!---
